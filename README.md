@@ -7,5 +7,5 @@ Currently learning React. <br/>
 Open to work and collaborations! <br/>
 
 <<< Contact info <br/>
-Portfolio: Coming soon..
+Portfolio: Coming soon.. <br/>
 Linkedin: https://www.linkedin.com/in/kailahobbs/
