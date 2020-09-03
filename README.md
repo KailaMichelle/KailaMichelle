@@ -6,5 +6,5 @@ General Assembly Alum. <br/>
 Currently learning React. <br/>
 Open to work and collaborations! <br/>
 
-Portfolio: Coming soon.. <br/>
+Portfolio: https://kailamichelle.github.io/ <br/>
 Linkedin: https://www.linkedin.com/in/kailahobbs/
